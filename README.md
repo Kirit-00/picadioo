@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently student of 42 Ecole<br>🌱 I’m currently learning c, c++ and c#
+🔭 I’m currently student of 42 Ecole<br>🌱 I’m learning c, c++ and c#
 
 
 # 💻 Tech Stack:
