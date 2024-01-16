@@ -1,4 +1,4 @@
-![Fnaf So_long](https://i.imgur.com/G1g0waL.gif)
+![Fnaf So_long](https://i.imgur.com/4Ep7pN4.gif)
 
 # 💫 About Me:
 🔭 I’m currently student at 42 Ecole<br>🌱 I’m learning C, C++ and C#
